@@ -5,7 +5,7 @@ export const SITE = {
   description:
     "Voice & Verse is a youth empowerment and mentorship program helping young people understand themselves, build life skills, and prepare for life beyond the classroom.",
   // Replace with your real domain once it's connected (no trailing slash).
-  url: "https://voice-and-verse.vercel.app/",
+  url: "https://www.voiceandverse.co.ke/",
   // Add a real contact email to show the "Get in touch" buttons. Leave empty to hide them.
   email: "verseandvoice18@gmail.com",
 };
