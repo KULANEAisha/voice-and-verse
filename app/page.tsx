@@ -92,7 +92,7 @@ const TEAM = [
   { name: "Khadija Kassim Farah", role: "CEO / Executive Director", body: "Strategic direction, partnerships, and organisational leadership." },
   { name: "Huda Ibrahim Haithar", role: "Secretary", body: "Records, meetings, follow-up, and internal communication." },
   { name: "Rahma Ilyas", role: "Operations & Coordination Lead", body: "Coordinating activities, logistics, and day-to-day delivery." },
-  { name: "Aisha", role: "Treasurer", body: "Budgeting, financial records, and transparent fund management." },
+  { name: "Aisha Kulane", role: "Technology, Innovation and Digital Strategy Lead ", body: " Developing/maintaining the organization's website, registration systems, mentorship databases, digital resources, etc." },
   { name: "Anisa Ibrahim Haithar", role: "Legal Advisor", body: "Compliance, safeguarding, consent, and data-protection guidance." },
 ];
 
