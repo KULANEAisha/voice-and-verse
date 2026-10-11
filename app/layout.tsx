@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     template: `%s | ${SITE.name}`,
   },
   description: SITE.description,
+  alternates: {
+    canonical: "/",
+  },
   keywords: [
     "youth empowerment",
     "mentorship",
